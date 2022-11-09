@@ -7,3 +7,6 @@ try/except de forma que si se encontraba un error en el tipo de dato del input()
 y solicite otra vez la informacion hasta que sea correcta. Una vez teniendo esa forma de validar los datos, solo lo
 replique en todas las variables y tipos de datos que se solicitan al usuario y al final con un print() le di formato
 para que diera una respuesta legible y bien presentada.
+
+Creo que este fue un buen ejercicio ya que me ayudo a consolidar lo que aprendi en el modulo y aparte me hizo buscar
+nueva informacion que complemento muy bien a lo aprendido en el modulo.
